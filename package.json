@@ -28,7 +28,7 @@
     "@anthropic-ai/sdk": "^0.32.1",
     "@modelcontextprotocol/sdk": "^1.0.3",
     "@slack/bolt": "^4.1.1",
-    "dotenv": "~16.4.5",
+    "dotenv": "~16.4.7",
     "openai": "^4.74.0"
   },
   "devDependencies": {
